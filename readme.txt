@@ -18,6 +18,10 @@ images is automatically inserted in posts when users upload images.
 Thumbnails are automatically created on image hosting server.
 This mod is very easy to install and very easy to use.
 
+Other options and language settings are available here: [http://postimage.org/mod.php](http://postimage.org/mod.php)
+
+Powered by [Postimage.org](http://postimage.org/)
+
 == Installation ==
 
 1. Upload the entire plugin to the <code>/wp-content/plugins/</code> directory or install it with WordPress plugin search.
