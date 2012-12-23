@@ -16,7 +16,7 @@ class postimage_header
 {
 	public static function postimage_get()
 	{
-		$postimage_js=plugins_url('wordpress-english.js',dirname(__FILE__));
+		$postimage_js=plugins_url('simple-image-upload/wordpress-english.js');
 		
 		echo "<script type='text/javascript' src='{$postimage_js}' charset='utf-8'></script>\n";
 	}
