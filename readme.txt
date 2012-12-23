@@ -1,6 +1,6 @@
 === Simple Image Upload ===
 Contributors: Sium
-Tags: image, upload, hosting, free, images, uploading, host, picture, photo, postimage
+Tags: image, upload, hosting, free, images, uploading, host, picture, photo, postimage, comments, photos, post, posts, wordpress
 Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: trunk
