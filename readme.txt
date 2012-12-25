@@ -29,7 +29,9 @@ Powered by [Postimage.org](http://postimage.org/)
 
 == Screenshots ==
 
-1. Add New Post
+1. When starting new post you see "add image to post" link below textarea
+2. Click that link, popup will appear where you should select image
+3. You click "upload it" link, image is uploaded and html code is automatically inserted in post
 
 == Changelog ==
 
