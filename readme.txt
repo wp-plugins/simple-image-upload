@@ -27,6 +27,10 @@ Powered by [Postimage.org](http://postimage.org/)
 1. Upload the entire plugin to the <code>/wp-content/plugins/</code> directory or install it with WordPress plugin search.
 2. Activate the plugin through the 'Plugins' menu in WordPress Network Admin
 
+== Screenshots ==
+
+1. Add New Post
+
 == Changelog ==
 
 <h4>1.4.0</h4>

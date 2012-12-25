@@ -24,6 +24,4 @@ class postimage_header
 
 add_action('admin_head',array('postimage_header','postimage_get'));
 
-add_action('wp_head',array('postimage_header','postimage_get'));
-
 ?>
